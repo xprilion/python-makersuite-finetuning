@@ -5,6 +5,7 @@ A repo for code-along workshop at DevFest Kuala Lumpur 2023 showing Fine tuning 
 
 ```
 python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
