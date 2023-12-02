@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ```
 
 Sample Dataset used: https://huggingface.co/datasets/xiyuez/im-feeling-curious
+
+That's all folks!
